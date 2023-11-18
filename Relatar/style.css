@@ -1,0 +1,13 @@
+*{
+    font-family: 'Inconsolata', monospace;
+}
+
+.formulario{
+    max-width: 400px;
+}
+
+@media screen and (max-width:768px) {
+    .formulario{
+        max-width: 200px;
+    }
+}

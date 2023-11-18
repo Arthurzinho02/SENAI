@@ -1,0 +1,15 @@
+*{
+    font-family: 'Inconsolata', monospace;
+}
+
+.pastas{
+    border: 1px solid black;
+    max-width: 350px;
+}
+
+.pastas > a{
+    font-size: 25px;
+    padding: 3px;
+    border: 1px solid black;
+    background-color: rgb(195, 212, 240);
+}

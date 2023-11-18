@@ -1,0 +1,26 @@
+*{
+    font-family: 'Inconsolata', monospace;
+}
+
+.cabecalho{
+    background-color: #adb6db;
+    border: 1px black solid;
+}
+
+.plano1{
+    background-color: rgb(130, 145, 214);
+}
+.plano2{
+    background-color: rgb(104, 160, 193);
+}
+.plano3{
+    background-color: rgb(152, 176, 196);
+}
+
+.btn{
+    background-color: rgb(24, 39, 97)
+}
+.btn:hover{
+    background-color: rgb(210, 199, 250);
+    color: rgb(25, 0, 48);
+}
